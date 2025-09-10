@@ -1,3 +1,7 @@
+// my hello world program
 fn main() {
-    println!("Hello, worlds!");
+    /*multiple
+    line
+    comments */
+    println!("Hello, world!"); // this line prints!
 }
